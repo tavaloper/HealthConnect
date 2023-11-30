@@ -75,4 +75,6 @@ Para médicos, as ocorrências ativas ficam disponíveis com informações como 
 
 Quando uma ocorrência é resolvida, o usuário comum tem a opção de marcá-la como solucionada, indicando o ID do médico responsável. Isso atualiza automaticamente o histórico tanto do paciente quanto do médico.
 
+#### Conclusão
+
 O HealthConnect busca transformar a interação entre pacientes e médicos, proporcionando uma abordagem eficiente e transparente para o gerenciamento de ocorrências médicas. Sua interface intuitiva e funcionalidades específicas para cada tipo de usuário garantem uma experiência otimizada na área da saúde.
