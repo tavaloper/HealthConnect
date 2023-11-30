@@ -1,0 +1,35 @@
+{
+  "12345678900": {
+    "nome": "Marina Oliveira",
+    "idade": 20,
+    "endereco": {
+      "cep": "01310-200",
+      "logradouro": "Avenida Paulista",
+      "complemento": "de 1512 a 2132 - lado par",
+      "bairro": "Bela Vista",
+      "localidade":"",
+      "uf": "SP",
+      "ibge": "3550308",
+      "gia": "1004",
+      "ddd": "11",
+      "siafi": "7107"
+    },
+    "celular": "11987654321",
+    "senha": "12345678",
+    "ocorrencias_ativas": {},
+    "ocorrencias": {
+      "1": {
+        "nome_medico": "Camila Lima",
+        "id_medico": "1",
+        "descricao_ocorrencia": "Acidente de carro",
+        "status": "solucionada"
+      },
+      "2": {
+        "nome_medico": "Camila Lima",
+        "id_medico": "1",
+        "descricao_ocorrencia": "Cai da escada",
+        "status": "solucionada"
+      }
+    }
+  }
+}
