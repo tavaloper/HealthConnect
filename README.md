@@ -6,7 +6,7 @@ A má conexão entre médicos e pacientes pode resultar em atrasos no atendiment
 
 O HealthConnect é um software desenvolvido em Python que visa otimizar os serviços prestados na área da saúde, destacando-se por sua eficiência e velocidade na conexão entre pacientes e médicos. Além disso, o HealthConnect oferece a funcionalidade de servir como um portfólio para médicos, armazenando detalhes de todos os atendimentos realizados por cada profissional.
 
-## Execute o arquivo tela_inicial.py
+**Execute o arquivo tela_inicial.py**
 
 ## Processo de Cadastro
 
