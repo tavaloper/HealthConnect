@@ -37,13 +37,9 @@ Usuários comuns devem fornecer as seguintes informações durante o cadastro:
 
 ## Processo de Login
 
-### Médicos
+**Médicos:** O login é realizado com o ID fornecido durante o cadastro do médico e a senha escolhida anteriormente.
 
-O login é realizado com o ID fornecido durante o cadastro do médico e a senha escolhida anteriormente.
-
-### Usuários Comuns
-
-O login é feito com o CPF do usuário e a senha escolhida anteriormente.
+**Usuários Comuns:** O login é feito com o CPF do usuário e a senha escolhida anteriormente.
 
 ## Funcionalidades para Usuários Comuns
 
